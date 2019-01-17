@@ -4,3 +4,4 @@ a<-runif(1:100)
 data.frame(a)
 df2<-cbind.data.frame(df1,a)
 df2
+plot(a)
